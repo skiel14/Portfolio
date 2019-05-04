@@ -28,3 +28,31 @@ body {
 footer {
   color: #E9ECEF;
 }
+
+#jumbo {
+  padding: 35px;
+}
+
+.myCards {
+  /* background: #575366; */
+  background: rgb(124, 124, 124);
+  /* background-image: url(../images/background.png);
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover; */
+  opacity: 0.9;
+  margin: 20px;
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
+#projects {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+/* 3c5b9a */
+a.card-link {
+  color: darkblue;
+}
