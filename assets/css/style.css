@@ -1,8 +1,11 @@
+html {
+  min-height: 100%;
+}
+
 body {
-  background-repeat: no-repeat;
+  background: url(../images/background.png) scroll;
   background-position: center;
   background-size: cover;
-  background: url(../images/background.png) fixed;
 }
 
 #main {
