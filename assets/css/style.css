@@ -68,9 +68,10 @@ a.contact{
   color: cornflowerblue;
 }
 
-/* @media (min-width: 800px) {
-  .myCards {
-    margin: 20px;
-  }
-
-} */
+.pics {
+  border-left: #AEA79F 1px solid;
+  height: 200px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
